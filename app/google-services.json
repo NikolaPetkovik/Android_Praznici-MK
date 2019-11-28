@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "845527890974",
+    "firebase_url": "https://praznici-a5d74.firebaseio.com",
+    "project_id": "praznici-a5d74",
+    "storage_bucket": "praznici-a5d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845527890974:android:11264308429cea9ba7c20f",
+        "android_client_info": {
+          "package_name": "com.example.praznici_mk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845527890974-gifvr69shavnranvjkpfiq6b0vstis85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.praznici_mk",
+            "certificate_hash": "20ed2a698afaab239829fcc0e690cca8a547430d"
+          }
+        },
+        {
+          "client_id": "845527890974-f4dorrkhmfrqcdpou875fmr6aaqg4nir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcl0PCliauJ1CiGNETtU3RZru-XZDTPJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845527890974-f4dorrkhmfrqcdpou875fmr6aaqg4nir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
